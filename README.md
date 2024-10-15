@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Varsha1407/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Varsha1407/Leetcode/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Varsha1407/Leetcode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
