@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Varsha1407/Leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Varsha1407/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Varsha1407/Leetcode/tree/master/0739-daily-temperatures) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Varsha1407/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Varsha1407/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/Varsha1407/Leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Two Pointers
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Varsha1407/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Varsha1407/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Varsha1407/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
