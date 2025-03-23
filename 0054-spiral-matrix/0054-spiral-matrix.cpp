@@ -18,7 +18,7 @@ public:
                 j++;
                 count++;
             }
-            j--; i++; // Adjust for overshoot
+            j--; i++; 
 
             // Traverse last column (top to bottom)
             while (i < row && !visited[i][j]) {
@@ -27,7 +27,7 @@ public:
                 i++;
                 count++;
             }
-            i--; j--; // Adjust for overshoot
+            i--; j--; 
 
             // Traverse bottom row (right to left)
             while (j >= 0 && !visited[i][j]) {
@@ -36,7 +36,7 @@ public:
                 j--;
                 count++;
             }
-            j++; i--; // Adjust for overshoot
+            j++; i--; 
 
             // Traverse first column (bottom to top)
             while (i >= 0 && !visited[i][j]) {
@@ -45,7 +45,7 @@ public:
                 i--;
                 count++;
             }
-            i++; j++; // Adjust for overshoot
+            i++; j++; 
 
             // Move inward (continue until all elements are covered)
             while (j < clm && i < row && !visited[i][j]) { // Move right
