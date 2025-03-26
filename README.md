@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Varsha1407/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Varsha1407/Leetcode/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/Varsha1407/Leetcode/tree/master/0054-spiral-matrix) |
 | [0162-find-peak-element](https://github.com/Varsha1407/Leetcode/tree/master/0162-find-peak-element) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Varsha1407/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/Varsha1407/Leetcode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/Varsha1407/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Linked List
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Varsha1407/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varsha1407/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
