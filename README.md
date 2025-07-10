@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Varsha1407/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Varsha1407/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Varsha1407/Leetcode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Varsha1407/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Varsha1407/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Varsha1407/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Varsha1407/Leetcode/tree/master/0605-can-place-flowers) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Varsha1407/Leetcode/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/Varsha1407/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Varsha1407/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Varsha1407/Leetcode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Varsha1407/Leetcode/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Varsha1407/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
