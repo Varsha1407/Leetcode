@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Varsha1407/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Varsha1407/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Varsha1407/Leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Varsha1407/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Varsha1407/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Varsha1407/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Varsha1407/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Varsha1407/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/Varsha1407/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Varsha1407/Leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Varsha1407/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Varsha1407/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Linked List
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Varsha1407/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Varsha1407/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Varsha1407/Leetcode/tree/master/0070-climbing-stairs) |
+| [0300-longest-increasing-subsequence](https://github.com/Varsha1407/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Varsha1407/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Varsha1407/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Varsha1407/Leetcode/tree/master/0392-is-subsequence) |
