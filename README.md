@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Varsha1407/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Varsha1407/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Varsha1407/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Varsha1407/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Varsha1407/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Varsha1407/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Varsha1407/Leetcode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Varsha1407/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Varsha1407/Leetcode/tree/master/0338-counting-bits) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Varsha1407/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Varsha1407/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
