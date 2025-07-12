@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Varsha1407/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Varsha1407/Leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Varsha1407/Leetcode/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/Varsha1407/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Varsha1407/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Varsha1407/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Varsha1407/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Varsha1407/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Varsha1407/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Varsha1407/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Varsha1407/Leetcode/tree/master/0268-missing-number) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Varsha1407/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Varsha1407/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Varsha1407/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Varsha1407/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
