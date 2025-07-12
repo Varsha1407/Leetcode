@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Varsha1407/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Varsha1407/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Varsha1407/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Varsha1407/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Varsha1407/Leetcode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Varsha1407/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Varsha1407/Leetcode/tree/master/0198-house-robber) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Varsha1407/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Varsha1407/Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Varsha1407/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Varsha1407/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Varsha1407/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Varsha1407/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Varsha1407/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Varsha1407/Leetcode/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Varsha1407/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Dynamic Programming
 |  |
@@ -244,8 +247,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Varsha1407/Leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Varsha1407/Leetcode/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Varsha1407/Leetcode/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Varsha1407/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 <!---LeetCode Topics End-->
