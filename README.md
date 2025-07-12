@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Varsha1407/Leetcode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Varsha1407/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Varsha1407/Leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Varsha1407/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Varsha1407/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varsha1407/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Varsha1407/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Varsha1407/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Varsha1407/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Varsha1407/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Varsha1407/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Varsha1407/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Dynamic Programming
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Varsha1407/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Varsha1407/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Varsha1407/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Varsha1407/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Varsha1407/Leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Varsha1407/Leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Varsha1407/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Varsha1407/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Varsha1407/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Varsha1407/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Varsha1407/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Varsha1407/Leetcode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Varsha1407/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Graph
@@ -275,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Varsha1407/Leetcode/tree/master/0207-course-schedule) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Varsha1407/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
