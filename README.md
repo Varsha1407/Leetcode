@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Varsha1407/Leetcode/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/Varsha1407/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Varsha1407/Leetcode/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Varsha1407/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Varsha1407/Leetcode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Varsha1407/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Varsha1407/Leetcode/tree/master/0198-house-robber) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Varsha1407/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Varsha1407/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Varsha1407/Leetcode/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/Varsha1407/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Varsha1407/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Varsha1407/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Varsha1407/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
