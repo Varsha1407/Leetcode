@@ -1,0 +1,20 @@
+class Solution {
+public:
+    int robRange(vector<int>& nums,int start,int end){
+        int prev1=0,prev2=0;
+        for(int i=start;i<=end;++i){
+            int temp=prev1;
+            prev1=max(prev2+nums[i],prev1);
+            prev2=temp;
+        }
+        return prev1;
+    }
+    int rob(vector<int>& nums) {
+        int n=nums.size();
+        if(n==1){
+            if(nums[0]==0) return 0;
+            else return nums[0];
+        }
+        return robRange(nums,0,n-1);
+    }
+};
