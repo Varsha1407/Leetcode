@@ -1,86 +1,34 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        int row = matrix.size();
-        int clm = matrix[0].size();
-        vector<int> arr;
-        vector<vector<bool>> visited(row, vector<bool>(clm, false)); // To track visited elements
-
-        int i = 0, j = 0; // Start position
-        int totalElements = row * clm; 
-        int count = 0;
-
-        while (count < totalElements) {
-            // Traverse top row (left to right)
-            while (j < clm && !visited[i][j]) {
-                arr.push_back(matrix[i][j]);
-                visited[i][j] = true;
-                j++;
-                count++;
+        vector<int> result;
+        int top=0,bottom = matrix.size()-1;
+        int left=0,right=matrix[0].size()-1;
+        while(top<=bottom&& left<=right){
+            //move right
+            for(int j=left;j<=right;++j){
+                result.push_back(matrix[top][j]);
             }
-            j--; i++; 
-
-            // Traverse last column (top to bottom)
-            while (i < row && !visited[i][j]) {
-                arr.push_back(matrix[i][j]);
-                visited[i][j] = true;
-                i++;
-                count++;
+            top++;
+            //move down
+            for(int i=top;i<=bottom;++i){
+                result.push_back(matrix[i][right]);
             }
-            i--; j--; 
-
-            // Traverse bottom row (right to left)
-            while (j >= 0 && !visited[i][j]) {
-                arr.push_back(matrix[i][j]);
-                visited[i][j] = true;
-                j--;
-                count++;
+            right--;
+            //move left
+            if(top<=bottom){
+                for(int j=right;j>=left;--j){
+                    result.push_back(matrix[bottom][j]);
+                }
+                bottom--;
             }
-            j++; i--; 
-
-            // Traverse first column (bottom to top)
-            while (i >= 0 && !visited[i][j]) {
-                arr.push_back(matrix[i][j]);
-                visited[i][j] = true;
-                i--;
-                count++;
+            if(left<=right){
+                for(int i=bottom;i>=top;--i){
+                    result.push_back(matrix[i][left]);
+                }
+                left++;
             }
-            i++; j++; 
-
-            // Move inward (continue until all elements are covered)
-            while (j < clm && i < row && !visited[i][j]) { // Move right
-                arr.push_back(matrix[i][j]);
-                visited[i][j] = true;
-                j++;
-                count++;
-            }
-            j--; i++;
-
-            while (i < row && j < clm && !visited[i][j]) { // Move down
-                arr.push_back(matrix[i][j]);
-                visited[i][j] = true;
-                i++;
-                count++;
-            }
-            i--; j--;
-
-            while (j >= 0 && i >= 0 && !visited[i][j]) { // Move left
-                arr.push_back(matrix[i][j]);
-                visited[i][j] = true;
-                j--;
-                count++;
-            }
-            j++; i--;
-
-            while (i >= 0 && j >= 0 && !visited[i][j]) { // Move up
-                arr.push_back(matrix[i][j]);
-                visited[i][j] = true;
-                i--;
-                count++;
-            }
-            i++; j++;
         }
-
-        return arr;
+        return result;
     }
 };
