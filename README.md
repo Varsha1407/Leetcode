@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Varsha1407/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Varsha1407/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Varsha1407/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/Varsha1407/Leetcode/tree/master/0744-network-delay-time) |
 ## Quickselect
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Varsha1407/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Varsha1407/Leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Varsha1407/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0744-network-delay-time](https://github.com/Varsha1407/Leetcode/tree/master/0744-network-delay-time) |
 | [1073-number-of-enclaves](https://github.com/Varsha1407/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Bucket Sort
 |  |
@@ -285,12 +287,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Varsha1407/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Varsha1407/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Varsha1407/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0744-network-delay-time](https://github.com/Varsha1407/Leetcode/tree/master/0744-network-delay-time) |
 | [1073-number-of-enclaves](https://github.com/Varsha1407/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Varsha1407/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Varsha1407/Leetcode/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/Varsha1407/Leetcode/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -301,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Varsha1407/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Varsha1407/Leetcode/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/Varsha1407/Leetcode/tree/master/1073-number-of-enclaves) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Varsha1407/Leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
