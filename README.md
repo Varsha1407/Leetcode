@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Varsha1407/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Varsha1407/Leetcode/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Varsha1407/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Varsha1407/Leetcode/tree/master/0283-move-zeroes) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Varsha1407/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Varsha1407/Leetcode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Varsha1407/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Varsha1407/Leetcode/tree/master/0091-decode-ways) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Varsha1407/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Varsha1407/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Varsha1407/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Varsha1407/Leetcode/tree/master/0070-climbing-stairs) |
