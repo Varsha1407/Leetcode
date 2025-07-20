@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Varsha1407/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Varsha1407/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Varsha1407/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Varsha1407/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Varsha1407/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Varsha1407/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Varsha1407/Leetcode/tree/master/0079-word-search) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Varsha1407/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varsha1407/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Varsha1407/Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Varsha1407/Leetcode/tree/master/0295-find-median-from-data-stream) |
