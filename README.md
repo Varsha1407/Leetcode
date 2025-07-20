@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Varsha1407/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Varsha1407/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Varsha1407/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Varsha1407/Leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Varsha1407/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Varsha1407/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Varsha1407/Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Varsha1407/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Varsha1407/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Varsha1407/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Varsha1407/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Varsha1407/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Varsha1407/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Varsha1407/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -122,12 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Varsha1407/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Varsha1407/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Varsha1407/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Varsha1407/Leetcode/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Varsha1407/Leetcode/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/Varsha1407/Leetcode/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/Varsha1407/Leetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Varsha1407/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Varsha1407/Leetcode/tree/master/0937-online-stock-span) |
