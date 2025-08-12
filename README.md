@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Varsha1407/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Varsha1407/Leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Varsha1407/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0686-repeated-string-match](https://github.com/Varsha1407/Leetcode/tree/master/0686-repeated-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Varsha1407/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Varsha1407/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Varsha1407/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Varsha1407/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Varsha1407/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0686-repeated-string-match](https://github.com/Varsha1407/Leetcode/tree/master/0686-repeated-string-match) |
 ## Hash Function
 |  |
 | ------- |
