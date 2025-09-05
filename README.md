@@ -391,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Varsha1407/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Varsha1407/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
