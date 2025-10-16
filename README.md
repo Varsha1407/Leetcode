@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Varsha1407/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Varsha1407/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/Varsha1407/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Varsha1407/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Varsha1407/Leetcode/tree/master/0621-task-scheduler) |
 | [1319-unique-number-of-occurrences](https://github.com/Varsha1407/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Varsha1407/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Varsha1407/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Varsha1407/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Varsha1407/Leetcode/tree/master/0621-task-scheduler) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Varsha1407/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -422,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Varsha1407/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Varsha1407/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Varsha1407/Leetcode/tree/master/0607-sales-person) |
+## Enumeration
+|  |
+| ------- |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/Varsha1407/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 <!---LeetCode Topics End-->
