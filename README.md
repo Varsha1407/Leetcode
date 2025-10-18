@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Varsha1407/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Varsha1407/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Varsha1407/Leetcode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Varsha1407/Leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Varsha1407/Leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Varsha1407/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Varsha1407/Leetcode/tree/master/0053-maximum-subarray) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Varsha1407/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Varsha1407/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Varsha1407/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Varsha1407/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Varsha1407/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Varsha1407/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Varsha1407/Leetcode/tree/master/0143-reorder-list) |
